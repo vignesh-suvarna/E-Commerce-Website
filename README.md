@@ -1,1 +1,3 @@
 # E-Commerce-Website
+
+During my undergraduate studies, I undertook a captivating project that allowed me to blend creativity with technical prowess. I embarked on the development of an ecommerce website for video games, leveraging HTML and CSS for the captivating frontend design, while harnessing the power of PHP for seamless backend admin functionality. This endeavor not only honed my skills in web development but also instilled in me a profound appreciation for the intersection of innovation and user experience. Through meticulous attention to detail and a passion for crafting immersive digital experiences, I successfully brought this project to life, marking a significant milestone in my journey as a budding developer.
